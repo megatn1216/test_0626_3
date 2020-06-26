@@ -21,7 +21,9 @@ Run Docker
 
 Check localhost
 <img width="300" src="https://user-images.githubusercontent.com/64004398/85835324-d5b8e900-b7cf-11ea-82ee-314924d8200b.PNG">
+
 ----------------------
+
 Link git by clone
  - Git clone https://github.com/megatn1216/docker.git
 
