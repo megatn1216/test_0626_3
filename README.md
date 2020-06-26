@@ -20,7 +20,7 @@ Run Docker
 - winpty docker run -it --name test2 -p 8888:80 <image명>
 
 Check localhost
-<img width="300" src="https://user-images.githubusercontent.com/64004398/85835324-d5b8e900-b7cf-11ea-82ee-314924d8200b.PNG">
+ - <img width="300" src="https://user-images.githubusercontent.com/64004398/85835324-d5b8e900-b7cf-11ea-82ee-314924d8200b.PNG">
 
 ----------------------
 
