@@ -11,7 +11,7 @@
 
 clone으로 git link를 연결합니다.
  - Git clone https://github.com/megatn1216/docker.git
-
+   
 vi Dockerfile
 
 FROM ubuntu
