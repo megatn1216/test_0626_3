@@ -7,19 +7,19 @@
 
 
 
-clone으로 git link를 연결합니다.
+Create Dockerfile script
+- vi Dockerfile
+Build
+- docker build --tag <dockerhubID/폴더명> .
+Create README
+- Vi README.md
+Run Docker
+- winpty docker run -it --name test2 -p 8888:80 <image명>
+Check localhost
+---
+Link git by clone
  - Git clone https://github.com/megatn1216/docker.git
-   
-vi Dockerfile
-
-FROM ubuntu
-RUN apt update
-RUN apt install -y nginx
-
-docker build --tag dockerhubID/폴더명 . 
-
-Vi README.md
-
-Git add -A
-Git commit -m 'message'
-Git push
+push git
+- Git add -A
+- Git commit -m 'message'
+- Git push
