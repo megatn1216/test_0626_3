@@ -1,4 +1,8 @@
-# test_0626_3
+# Workshop (test_0626_3)
+
+## github에 docker build script를 push하고 주소 제출 방법
+-----------------------
+
 Git clone https://github.com/megatn1216/docker.git
 
 vi Dockerfile
